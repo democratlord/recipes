@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 
 function Header() {
-    return <nav className=" red accent-2">
+    return <nav className=" red accent-3">
         <div className="container">
             <div className="nav-wrapper" >
                 <Link to="/" href="#!" class="brand-logo">
-                    SPA React Project
+                Recipes
                 </Link>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li>

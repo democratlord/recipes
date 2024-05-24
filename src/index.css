@@ -43,10 +43,10 @@ iframe {
   height: 350px;
 }
 .btn {
-  background-color: #ff5252 ;
+  background-color: #FF1744 ;
 }
 .btn:hover{
-  background-color: #ff8a80 ;
+  background-color: #ee4b3c ;
 }
 .contact_block,
 .about_block{
@@ -74,4 +74,7 @@ iframe {
 }
 .contact-item a:hover {
   color: #212121;
+}
+.page-footer{
+  padding-top: 0px;
 }
